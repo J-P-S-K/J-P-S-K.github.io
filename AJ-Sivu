@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<style>
+    body {background-color: aliceblue;}
+    h1 {color: aqua;}
+    h2 {color: aqua;}
+    p {color: black;}
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sivustosuunnitelma</title>
+</head>
+<body>
+    <h1>Aaaaaaargh</h1>
+    <p>Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+    <h2>Haaaargh</h2>
+    <p>hmmmm???!?</p>
+</body>
+</html>
